@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This is a script to convert a Markdown file to HTML.
